@@ -136,9 +136,9 @@
   </joint>
   <link name="foot_climb">
     <inertial>
-      <origin xyz="-1.0695e-08 -0.0115199 0.0605776" rpy="0 0.13467864 1.57079633"/>
-      <mass value="0.0299799"/>
-      <inertia ixx="4.07283e-05" ixy="0" ixz="0" iyy="4.01815e-05" iyz="0" izz="5.73401e-06"/>
+      <origin xyz="-1.08096e-08 -0.0101544 0.0582074" rpy="-0.00000168 0.15424630 1.57078538"/>
+      <mass value="0.0257414"/>
+      <inertia ixx="3.90571e-05" ixy="0" ixz="0" iyy="3.86484e-05" iyz="0" izz="4.51542e-06"/>
     </inertial>
   </link>
   <joint name="right_ankle_roll" type="revolute">
@@ -262,9 +262,9 @@
   </joint>
   <link name="foot_climb_2">
     <inertial>
-      <origin xyz="-1.0695e-08 -0.0115199 0.0605776" rpy="0 0.13467864 1.57079633"/>
-      <mass value="0.0299799"/>
-      <inertia ixx="4.07283e-05" ixy="0" ixz="0" iyy="4.01815e-05" iyz="0" izz="5.73401e-06"/>
+      <origin xyz="-1.08096e-08 -0.0101544 0.0582074" rpy="-0.00000168 0.15424630 1.57078538"/>
+      <mass value="0.0257414"/>
+      <inertia ixx="3.90571e-05" ixy="0" ixz="0" iyy="3.86484e-05" iyz="0" izz="4.51542e-06"/>
     </inertial>
   </link>
   <joint name="left_ankle_roll" type="revolute">
